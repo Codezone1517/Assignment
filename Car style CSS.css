@@ -1,0 +1,13 @@
+li{
+  font-size: larger;
+  font-family: "Bauhaus 93", serif;
+  border-collapse: collapse;
+  background: brown;
+  list-style-type: none;
+}
+body{
+  background: burlywood;
+
+}
+
+
